@@ -1,0 +1,7 @@
+.parallax-content {
+margin-top: 50%;
+background-color: #FFF;
+z-index: 100;
+display: block;
+padding-top: 30px;
+}
